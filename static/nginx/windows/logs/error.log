@@ -1,0 +1,59 @@
+2021/09/10 20:44:25 [emerg] 3868#18596: CreateFile() "D:\Timothy\fontweb\nginx\conf\nginx.conf" failed (3: The system cannot find the path specified)
+2021/09/14 16:10:48 [emerg] 23464#6344: CreateFile() "./\nginx/\nginx\conf\nginx.conf" failed (3: The system cannot find the path specified)
+2021/09/14 16:10:48 [emerg] 13396#16468: CreateFile() "./\nginx/\nginx\conf\nginx.conf" failed (3: The system cannot find the path specified)
+2021/09/14 16:10:52 [emerg] 22036#5016: CreateFile() "./\nginx/\nginx\conf\nginx.conf" failed (3: The system cannot find the path specified)
+2021/09/14 16:10:52 [emerg] 22764#22580: CreateFile() "./\nginx/\nginx\conf\nginx.conf" failed (3: The system cannot find the path specified)
+2021/09/14 17:26:18 [emerg] 24988#24004: CreateFile() "./\nginx/\nginx\conf\nginx.conf" failed (3: The system cannot find the path specified)
+2021/09/14 17:26:18 [emerg] 27704#27600: CreateFile() "./\nginx/\nginx\conf\nginx.conf" failed (3: The system cannot find the path specified)
+2021/09/14 17:29:59 [error] 18724#20132: *1 CreateFile() "./\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/09/18 17:51:31 [emerg] 19844#17152: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\enable-proxy.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:51:31 [emerg] 28892#34408: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\enable-proxy.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:54:26 [emerg] 27736#11364: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\enable-proxy.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:54:26 [emerg] 12796#21140: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\enable-proxy.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:57:28 [emerg] 19824#19248: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:57:28 [emerg] 27692#28100: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:57:42 [emerg] 10516#29052: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:57:42 [emerg] 19396#26200: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:57:59 [emerg] 20468#28348: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:57:59 [emerg] 12056#26724: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf" failed (2: The system cannot find the file specified)
+2021/09/18 17:58:47 [emerg] 15868#29368: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\mime.types" failed (2: The system cannot find the file specified) in D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf:18
+2021/09/18 17:58:47 [emerg] 31988#11348: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\mime.types" failed (2: The system cannot find the file specified) in D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf:18
+2021/09/18 18:00:19 [emerg] 34676#12828: unexpected "}" in D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf:47
+2021/09/18 18:00:19 [emerg] 29716#8516: unexpected "}" in D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf:47
+2021/09/18 18:00:35 [emerg] 25848#17000: invalid URL prefix in D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf:46
+2021/09/18 18:00:35 [emerg] 12328#29352: invalid URL prefix in D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf:46
+2021/09/18 18:00:51 [emerg] 32876#4812: bind() to 0.0.0.0:8888 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2021/09/18 18:00:51 [emerg] 32052#8904: bind() to 0.0.0.0:8888 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2021/09/18 20:01:03 [alert] 15624#21908: OpenEvent("ngx_master_18900") failed (2: The system cannot find the file specified)
+2021/09/18 20:01:03 [alert] 31736#34212: OpenEvent("ngx_master_13208") failed (2: The system cannot find the file specified)
+2021/09/18 20:01:10 [alert] 29264#14092: OpenEvent("ngx_master_34348") failed (2: The system cannot find the file specified)
+2021/09/18 20:01:10 [alert] 23784#25468: OpenEvent("ngx_master_6944") failed (2: The system cannot find the file specified)
+2021/09/18 20:06:59 [notice] 23964#14972: signal process started
+2021/09/18 20:06:59 [notice] 24860#15588: signal process started
+2021/09/18 20:07:02 [notice] 15032#11088: signal process started
+2021/09/18 20:07:02 [error] 15032#11088: CreateFile() "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/09/18 20:07:02 [notice] 14356#16368: signal process started
+2021/09/18 20:07:02 [error] 14356#16368: CreateFile() "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/09/18 20:12:47 [notice] 13836#12336: signal process started
+2021/09/18 20:12:47 [notice] 34488#14636: signal process started
+2021/09/18 20:12:53 [notice] 25256#25408: signal process started
+2021/09/18 20:12:53 [error] 25256#25408: CreateFile() "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/09/18 20:12:53 [notice] 14484#18988: signal process started
+2021/09/18 20:12:53 [error] 14484#18988: CreateFile() "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/09/18 20:14:33 [notice] 29376#13668: signal process started
+2021/09/18 20:14:33 [notice] 14952#6304: signal process started
+2021/09/18 20:14:36 [notice] 25848#21184: signal process started
+2021/09/18 20:14:36 [notice] 6712#27148: signal process started
+2021/09/18 20:14:50 [notice] 1216#34608: signal process started
+2021/09/18 20:14:50 [error] 1216#34608: CreateFile() "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/09/18 20:14:50 [notice] 29612#18136: signal process started
+2021/09/18 20:14:50 [error] 29612#18136: CreateFile() "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/09/18 20:14:56 [notice] 19112#28096: signal process started
+2021/09/18 20:14:57 [notice] 30764#31020: signal process started
+2021/09/18 20:16:16 [notice] 32920#30860: signal process started
+2021/09/18 20:16:18 [notice] 6424#32972: signal process started
+2021/09/18 20:16:18 [error] 6424#32972: CreateFile() "D:\Timothy\fontweb\slb-broker-tool\static\nginx\windows/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/09/18 20:17:20 [notice] 27564#34680: signal process started
+2021/09/18 20:17:20 [error] 27564#34680: CreateFile() "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/09/18 20:17:20 [notice] 34280#23696: signal process started
+2021/09/18 20:17:20 [error] 34280#23696: CreateFile() "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/logs/nginx.pid" failed (2: The system cannot find the file specified)

@@ -1,0 +1,41 @@
+.host-wrap{
+  overflow-x: hidden;
+  height:600px;
+  overflow-y: auto;
+  margin: 10px;
+  padding:10px;
+  background:#fff;
+}
+.item-wrap{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width:100%;
+}
+.item-wrap span{
+  margin-right: 10px;
+}
+.item-wrap span:first-child{
+  width:110px;
+  border-right: 1px solid #ddd;
+  padding-right:10px;
+}
+.ant-list-item{
+  padding:0;
+  display: flex;
+  align-items: center;
+  margin-bottom:10px;
+}
+.ant-switch{
+  margin-left:auto;
+}
+.ant-list-items{
+  padding:10px;
+}
+.ant-list-item{
+  padding:0;
+  margin:0;
+}
+.ant-list-item:nth-child(odd){
+  background:#f2f2f2;
+}

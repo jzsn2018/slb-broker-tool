@@ -1,0 +1,748 @@
+┏ Log: Thu Sep 23 2021 21:09:46 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 21:07:33 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:52:05 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:46:05 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:42:34 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:40:13 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:40:13 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:40:13 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:37:16 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:37:14 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:37:01 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:37:01 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 20:34:57 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:57:18 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:56:07 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:12:52 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:08:27 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:08:27 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:08:27 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:08:08 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:08:08 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:07:19 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:07:19 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 13200 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 11868 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 30260 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 25480 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:07:19 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:05:32 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:05:32 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 29296 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 29060 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 18:05:32 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:52:22 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:52:22 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:51:44 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:51:44 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:30:29 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:20:17 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:20:17 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:19:33 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:19:33 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:18:54 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:18:54 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:18:54 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:18:29 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:18:29 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:18:29 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 26720 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 25544 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 18216 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 3300 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:17:39 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:17:39 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 14148 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 26140 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:17:39 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:17:39 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:16:06 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:16:06 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:16:01 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:16:01 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:10:58 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:10:58 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:10:30 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:10:30 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:10:25 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:10:25 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:10:11 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:10:11 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:09:59 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:09:59 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:09:12 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:09:12 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:08:50 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:08:50 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:08:32 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:08:32 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:08:27 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 17:08:27 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Thu Sep 23 2021 14:20:51 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:47:35 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:47:35 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:47:33 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:47:33 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 4392 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 10104 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 24508 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 31352 �Ľ��̡�
+ԭ��: ��������֧�֡�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:47:33 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:47:23 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:47:23 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:46:17 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:46:17 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:46:17 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 16160 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 9188 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 34640 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 25728 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:46:09 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:46:09 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 14592 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 25368 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 21324 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 12080 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:46:09 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:46:02 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:46:02 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:45:52 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:45:44 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:45:27 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:45:27 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 33200 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 21112 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 15636 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 10548 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:45:27 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:51 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:51 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:45 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:45 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 6620 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 17800 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 3436 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 19240 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:45 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:45 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:45 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:40 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:40 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 10284 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 22948 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 6196 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 12700 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:40 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:36 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:36 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 22740 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 18348 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 19172 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 23816 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:36 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:34 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:34 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:23 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:23 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:21 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:21 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:21 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:21 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:16 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:16 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 25756 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 33652 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 16056 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 18916 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:16 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:14 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:14 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:14 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 24992 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 33132 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 29788 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 13232 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:14 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:14 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:10 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:10 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 31872 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 31832 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 21012 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 21600 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:10 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:10 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:30:10 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:29:49 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:29:49 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 27204 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 10468 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 648 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 23732 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:29:48 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:29:45 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:29:45 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.exe" /f
+����: �޷���ֹ PID Ϊ 31764 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 34312 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 23632 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 5340 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:29:45 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:29:45 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:29:45 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:47 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:47 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.EXE" /f
+����: �޷���ֹ PID Ϊ 9452 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 31420 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 9904 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 13808 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:47 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:43 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:43 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:43 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:43 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:43 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.EXE" /f
+����: �޷���ֹ PID Ϊ 14788 �Ľ��̡�
+ԭ��: �ܾ����ʡ�
+����: �޷���ֹ PID Ϊ 13352 �Ľ��̡�
+ԭ��: �ܾ����ʡ�
+����: �޷���ֹ PID Ϊ 31292 �Ľ��̡�
+ԭ��: �ܾ����ʡ�
+����: �޷���ֹ PID Ϊ 5948 �Ľ��̡�
+ԭ��: �ܾ����ʡ�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:25 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:25 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.EXE" /f
+����: �޷���ֹ PID Ϊ 10708 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 19940 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 25212 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 19032 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:25 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:21 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:21 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.EXE" /f
+����: �޷���ֹ PID Ϊ 33696 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 308 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 29844 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 30520 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:21 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:21 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:26:21 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:42 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:42 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.EXE" /f
+����: �޷���ֹ PID Ϊ 18716 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 11524 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 18464 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 22944 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:42 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:36 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:36 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.EXE" /f
+����: �޷���ֹ PID Ϊ 34104 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 25180 �Ľ��̡�
+ԭ��: ��������֧�֡�
+����: �޷���ֹ PID Ϊ 13752 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 12576 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:36 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:33 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:33 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:33 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:33 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:33 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:33 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.EXE" /f
+����: �޷���ֹ PID Ϊ 2900 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 7476 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 23380 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 22544 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 29004 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 12568 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 8572 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 11316 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:25:33 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:24:28 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:24:28 GMT+0800 (中国标准时间)-------------------
+nginx stop error ->Error: Command failed: taskkill /fi "imagename eq nginx.EXE" /f
+����: �޷���ֹ PID Ϊ 32036 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 26224 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 3168 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+����: �޷���ֹ PID Ϊ 15500 �Ľ��̡�
+ԭ��: û�д������ʵ�������С�
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Sep 18 2021 20:24:28 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------

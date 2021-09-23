@@ -3,19 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@craco/craco": "^6.3.0",
+    "@electron/remote": "^1.2.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "antd": "^4.16.13",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "shelljs": "^0.8.4",
     "web-vitals": "^1.0.1"
   },
+  "main": "./src/main.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start:dev": "concurrently  \"npm run start\" \"npm run build:electron\"",
+    "start": "craco start",
+    "build:electron": "wait-on tcp:3000 && chcp 65001 && electron .",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "craco eject"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +41,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.1",
+    "electron": "^14.0.0",
+    "electron-is-dev": "^2.0.0",
+    "electron-log": "^4.4.1",
+    "wait-on": "^6.0.0"
   }
 }

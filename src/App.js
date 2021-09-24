@@ -6,19 +6,10 @@
  */
 
 import './App.css';
-import nginx from "./main/nginx.service";
 import { Layout,Menu } from 'antd';
-import {HostContent} from "./render/HostContent/index"
+import {NginxMgt,HostContent} from "./render/index"
 const { Footer, Sider, Content } = Layout;
 function App() {
-  const now = Date.now();
-  (async()=>{
-    await nginx.stop();
-    setTimeout(async () => {
-      await nginx.start();
-    }, 3000);
-    
-  })()
   return (
     <div className='App'>
         <Layout className='app-layout'>
@@ -30,7 +21,8 @@ function App() {
             </Menu>
           </Sider>
           <Content>
-            <HostContent/>
+            {/* <HostContent/> */}
+            <NginxMgt/>
           </Content>
         </Layout>
     </div>

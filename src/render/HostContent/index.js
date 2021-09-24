@@ -11,7 +11,6 @@ import {
   getHostPath,
   splitChar
 } from "./utils";
-import CodeMirror from "../components/CodeMirror/index"
 import { List,Switch,Tabs } from 'antd';
 import "./index.css";
 const { TabPane } = Tabs;

@@ -10,7 +10,7 @@ const exec = util.promisify(require('child_process').exec)
 class NginxService {
   constructor () {
     this.init();
-    
+    this.isStarted = false; 
   }
   async init () {
     await this.loadConfig()
@@ -61,17 +61,20 @@ class NginxService {
     return true
   }
   async start () {
+    if(this.isStarted)return true;
     try {
       let config = this.config
       if (isWindows) {
         config = `"${config}"`
       }
       const {stderr} = await exec(`${this.nginx} -c ${config}`)
-      await addLog('nginx start successful')
+      await addLog('nginx start successful');
+      this.isStarted = true;
       return true
     } catch (e) {
       await addLog('nginx start error ->' + e)
       console.log(e)
+      this.isStarted = false;
       return false
     }
   }

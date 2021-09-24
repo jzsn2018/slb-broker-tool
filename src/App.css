@@ -14,3 +14,6 @@ body {
   height: 100vh;
   overflow: hidden;
 }
+.ant-layout-sider-children{
+  user-select: none;
+}

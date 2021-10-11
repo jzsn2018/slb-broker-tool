@@ -1,0 +1,17 @@
+.ant-form-item{
+    margin-bottom: 0;
+}
+.ant-space{
+    margin-bottom: 20px;
+}
+.slb-space-wrap{
+    width: 100%;
+}
+.slb-space-wrap .ant-space-item:nth-child(odd){
+    flex:1
+}
+.ant-form-item-explain-error{
+    position: absolute;
+    bottom: -23px;
+    width: 100%;
+}

@@ -1,3 +1,52 @@
+┏ Log: Sat Oct 09 2021 17:54:22 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:54:22 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:54:05 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:54:05 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:54:02 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:54:02 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:53:46 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:53:46 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:53:41 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Sat Oct 09 2021 17:53:41 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Fri Sep 24 2021 20:23:56 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Fri Sep 24 2021 20:23:56 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
+┏ Log: Fri Sep 24 2021 20:23:50 GMT+0800 (中国标准时间)-------------------
+nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
+
+┗ ----------------------------------------------------------------------
+┏ Log: Fri Sep 24 2021 20:23:50 GMT+0800 (中国标准时间)-------------------
+nginx stop successful
+┗ ----------------------------------------------------------------------
 ┏ Log: Fri Sep 24 2021 15:56:17 GMT+0800 (中国标准时间)-------------------
 nginx start error ->Error: Command failed: "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows/nginx.exe" -p "D:/Timothy/fontweb/slb-broker-tool/static/nginx/windows" -c "D:\Timothy\fontweb\slb-broker-tool\static\nginx\config\nginx.conf"
 

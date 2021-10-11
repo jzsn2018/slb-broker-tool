@@ -1,7 +1,7 @@
 /*
  * @Date: 2021-09-10 16:46:59
  * @LastEditors: Timothy
- * @LastEditTime: 2021-09-23 20:30:32
+ * @LastEditTime: 2021-10-11 11:12:37
  * @Description: 
  */
 const {
@@ -18,10 +18,11 @@ log.info(app.getAppPath())
 
 function createWindow() {
   const mainWin = new BrowserWindow({
+    width:800,
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false,
-      enableRemoteModule: true
+      enableRemoteModule: true,
     }
   })
   mainWin.loadURL(
